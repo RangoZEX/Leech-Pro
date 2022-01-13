@@ -95,6 +95,8 @@ __Send any one of the available command, as a reply to a valid link/magnet/torre
 
 **Current Custom Upload Mode:** `{utxt}`
 
+========= @MaxxBots ========
+
 """,
         disable_web_page_preview=True,
     )
