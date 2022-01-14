@@ -15,4 +15,4 @@ lxml
 requests
 messages
 js2py
-python-dotenv
+
